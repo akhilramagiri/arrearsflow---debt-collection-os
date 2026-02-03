@@ -1,0 +1,8 @@
+{
+  "name": "ArrearsFlow - Debt Collection OS",
+  "description": "A high-performance debt collection system prototype for automated delinquency detection, DPD bucketing, and compliant contact orchestration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
